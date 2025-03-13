@@ -3,7 +3,7 @@ import styles from "./HeroArea.module.css";
 export const HeroArea = () => {
   return (
     <section className={styles.wrapper}>
-      <img className={styles.profile} src="public\images\leo1.jpg" alt="profile" />
+      <img className={styles.profile} src="\images\leo1.jpg" alt="profile" />
       <h1 className="title">Hi, I'm KADRI!</h1>
       <p className="description">
         An  intermediate DevOps
