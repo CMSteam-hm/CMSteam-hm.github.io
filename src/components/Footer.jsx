@@ -9,19 +9,19 @@ export const Footer = () => {
       <div className={styles.socials}>
        
         <a href="https://www.instagram.com/cmsteam_hm?igsh=Yz1jYTk10Dg3Zg==" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/actions/f1 (2).png" alt="social-icon"
+          <img src="/images/f1 (2).png" alt="social-icon"
           className={styles.icon}
           />
         </a>
 
         <a href="https://www.instagram.com/cmsteam_hm?igsh=Yz1jYTk10Dg3Zg==" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/actions/lindedin.png" alt="social-icon"
+          <img src="/images/lindedin.png" alt="social-icon"
           className={styles.icon}
           />
         </a>
 
         <a href="https://www.instagram.com/cmsteam_hm?igsh=Yz1jYTk10Dg3Zg==" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/actions/f1 (1).png" alt="social-icon"
+          <img src="/images/f1 (1).png" alt="social-icon"
           className={styles.icon}
           />
         </a>
